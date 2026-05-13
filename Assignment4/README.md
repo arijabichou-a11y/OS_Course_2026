@@ -29,7 +29,7 @@ As shown in the output below, the unsynchronized execution fails to reach the ta
 
 ## Proof of Execution
 
-before modifications 
+before modifications:
 
 
 PS C:\Users\XPS\Downloads\OS_Course_2026\Assignment4> py thread_sync.py
@@ -45,7 +45,7 @@ Difference:      0
 
 
 
-after modifications 
+after modifications:
 
 PS C:\Users\XPS\Downloads\OS_Course_2026\Assignment4> py thread_sync.py
 --- Running WITHOUT Lock (Unsync) ---
